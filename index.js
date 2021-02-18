@@ -1,1 +1,1 @@
-console.log('guess my number!!!')
+'use strict'
